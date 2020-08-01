@@ -1,0 +1,31 @@
+html,
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  background-color: rgb(250, 250, 250);
+}
+
+.container {
+  margin: 100px auto 100px auto;
+  max-width: 1000px;
+}
+
+.nav-container {
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.profile-image {
+  width: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.MuiBadge-badge {
+  color: white;
+  background-color: rgb(241 10 10 / 68%);
+}
